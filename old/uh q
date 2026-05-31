@@ -1,0 +1,132 @@
+[33mcommit 6713cfc608f2b0db27a4fc8609e397703c8f6b7b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Stephen <stephen.king@c12capital.com>
+Date:   Sun May 24 18:49:15 2026 -0400
+
+    fully upgraded c12 part of model and errors corrected
+
+[33mcommit 9ad62dd544783aa032216705e177505ea9cc92be[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Stephen <stephen.king@c12capital.com>
+Date:   Sat May 23 15:36:04 2026 -0400
+
+    cleanup
+
+[33mcommit f5e705f5e340165e55b60bb4555804fae1a6a16e[m
+Merge: c8ff377 a3dd5f0
+Author: Stephen <stephen.king@c12capital.com>
+Date:   Sat May 23 15:10:43 2026 -0400
+
+    intergrate
+
+[33mcommit c8ff3774d991877c41245bb5cd7da6a0ac599dbd[m
+Author: Stephen <stephen.king@c12capital.com>
+Date:   Sat May 23 15:09:06 2026 -0400
+
+    updated wrong files
+
+[33mcommit a3dd5f0ebe133bd24819ec3edc70ba75c3be39d7[m
+Author: Stephen <stephen.king@c12capital.com>
+Date:   Sat May 23 14:58:32 2026 -0400
+
+    updated py diags function
+
+[33mcommit dab4223bd712f01b8108ab97a4218283b6fdb0d0[m
+Author: Stephen <stephen.king@c12capital.com>
+Date:   Sat May 23 14:50:30 2026 -0400
+
+    updated modem and new computer and githun
+
+[33mcommit b358a50807c015150714ac14b67cb0809abd8e75[m
+Author: Stephen <stephen.king@c12capital.com>
+Date:   Sat May 23 13:07:38 2026 -0400
+
+    financial_model_excel_claude_v1.06
+
+[33mcommit 7c0dcc2992340992845fddbcab07f14fcf9dc703[m
+Author: Stephen <stephen.king@c12capital.com>
+Date:   Sat May 23 12:34:04 2026 -0400
+
+    remove test file
+
+[33mcommit 551589cbff5b3a9582b40ef36f4360370b07e5e1[m
+Author: Stephen <stephen.king@c12capital.com>
+Date:   Sat May 23 12:32:03 2026 -0400
+
+    test commit from new computer
+
+[33mcommit 22354fd721ed1d99424825520e7bd07d16c86588[m
+Author: Stephen <stephen.king@c12capital.com>
+Date:   Wed May 13 12:53:16 2026 -0400
+
+    colour coded format
+
+[33mcommit 406e333f170ce47d79136fa79824afab9bc29d4c[m
+Author: Stephen <stephen.king@c12capital.com>
+Date:   Tue May 12 17:57:56 2026 -0400
+
+    updated with diags sheet and have diags tool in py
+
+[33mcommit 820636177ef9efa779e7c55132a45d54ec9ed472[m
+Author: Stephen <stephen.king@c12capital.com>
+Date:   Tue May 12 16:20:59 2026 -0400
+
+    zero errors and updated error table sheet.  make this new benchmark
+
+[33mcommit d1047d4c472019eb5fc0edccc10fa454606b40b6[m
+Author: Stephen <stephen.king@c12capital.com>
+Date:   Tue May 12 15:28:59 2026 -0400
+
+    new benchmark reduced model for all new tests and python model
+
+[33mcommit 4752cdb987659a154c3b8344c61991ba1a025712[m
+Author: Stephen <stephen.king@c12capital.com>
+Date:   Tue May 12 15:27:48 2026 -0400
+
+    last manual update of excel model
+
+[33mcommit 554e4b870e0d4a5ba1ac43479d06b2ce60c9b5bb[m
+Author: Stephen <stephen.king@c12capital.com>
+Date:   Tue May 12 14:30:09 2026 -0400
+
+    all manual cross group violations fixed
+
+[33mcommit 7df3ccfee751d2fa33c16aa52200d4f5a128edb9[m
+Author: Stephen <stephen.king@c12capital.com>
+Date:   Tue May 12 12:13:04 2026 -0400
+
+    stripped out all reds that dont go anywhere, reduced and cleaned up
+
+[33mcommit 8e840964c12198bf1b509d28920818d36bb7fba2[m
+Author: Stephen <stephen.king@c12capital.com>
+Date:   Tue May 12 11:17:40 2026 -0400
+
+    eliminated registry_i
+
+[33mcommit 96bb1036d951bff87dc847a281798f89a2db0860[m
+Author: Stephen <stephen.king@c12capital.com>
+Date:   Tue May 12 10:03:36 2026 -0400
+
+    1003am 5/12 before claude fixes registry referencing
+
+[33mcommit bb486fafa01e8f6f03020dcc9f107e7978d07538[m
+Author: Stephen <stephen.king@c12capital.com>
+Date:   Mon May 11 23:07:28 2026 -0400
+
+    Add output snapshot baseline for model integrity verification
+
+[33mcommit 70d84e1319bb3cce4c2e300ed5e298e8cd90eaba[m
+Author: Stephen <stephen.king@c12capital.com>
+Date:   Mon May 11 22:30:14 2026 -0400
+
+    Delete working sheets lgh_errata and lgh_bs_qreport
+
+[33mcommit ef1957359769d8004cbaf0911e76d4b9d3b94011[m
+Author: Stephen <stephen.king@c12capital.com>
+Date:   Mon May 11 22:18:43 2026 -0400
+
+    Initial Excel model - starting point for cleanup
+
+[33mcommit a6da7dd02d3e619d6c33b69799959c682a3a7ee9[m
+Author: Stephen <stephen.king@c12capital.com>
+Date:   Mon May 11 22:12:20 2026 -0400
+
+    Initial Excel model - starting point for cleanup
