@@ -1,0 +1,6 @@
+﻿old/
+~$*.xlsx
+~$*.xlsm
+*.tmp
+__pycache__/
+*.pyc
