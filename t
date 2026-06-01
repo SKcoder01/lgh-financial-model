@@ -1,10 +1,58 @@
-[33mcommit 6713cfc608f2b0db27a4fc8609e397703c8f6b7b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+[33mcommit 4c5f659372025b52df4d0d74e2ccabfbe96fed2a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Stephen <stephen.king@c12capital.com>
+Date:   Mon Jun 1 09:50:51 2026 -0400
+
+    built io sheet
+
+[33mcommit 8507cd4d010409b09afcc27c0f07ae9255800091[m
+Author: Stephen <stephen.king@c12capital.com>
+Date:   Sun May 31 16:54:01 2026 -0400
+
+    full suite with flat achitecture
+
+[33mcommit cf98dafa6947cfe6c447861d229b7ce79e55a97e[m
+Author: Stephen <stephen.king@c12capital.com>
+Date:   Sun May 31 15:54:31 2026 -0400
+
+    dept file
+
+[33mcommit b6b09678a1281bad66a039bb2882f1fd599f8227[m
+Author: Stephen <stephen.king@c12capital.com>
+Date:   Sun May 31 15:03:41 2026 -0400
+
+    working hm py model and diags
+
+[33mcommit 8126dde538a659513fe6dca2ff5cc1037eeb99f2[m
+Author: Stephen <stephen.king@c12capital.com>
+Date:   Sun May 31 11:54:22 2026 -0400
+
+    add python files and context doc
+
+[33mcommit 35a851f94dd4d92f60ebf3ab1e9b9d1f8b0c5ae4[m
+Author: Stephen <stephen.king@c12capital.com>
+Date:   Sun May 31 11:43:13 2026 -0400
+
+    commit after conversation too long
+
+[33mcommit 0215b54e8b8b17871e5648a62cf37a069d6baa14[m
+Author: Stephen <stephen.king@c12capital.com>
+Date:   Sun May 31 09:55:34 2026 -0400
+
+    fixed dates abd 25/6 pretend actual data
+
+[33mcommit 0b51b44a6239a4a7009f13a70a3aa48940b30b8e[m
+Author: Stephen <stephen.king@c12capital.com>
+Date:   Sun May 31 08:23:55 2026 -0400
+
+    start c12 python conversion
+
+[33mcommit 6713cfc608f2b0db27a4fc8609e397703c8f6b7b[m
 Author: Stephen <stephen.king@c12capital.com>
 Date:   Sun May 24 18:49:15 2026 -0400
 
     fully upgraded c12 part of model and errors corrected
 
-[33mcommit 9ad62dd544783aa032216705e177505ea9cc92be[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+[33mcommit 9ad62dd544783aa032216705e177505ea9cc92be[m
 Author: Stephen <stephen.king@c12capital.com>
 Date:   Sat May 23 15:36:04 2026 -0400
 
